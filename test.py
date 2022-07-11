@@ -1,1 +1,0 @@
-print("/kaggle/input/2-class/2_class/*/*.jpg".split('/')[4])
